@@ -1,0 +1,13 @@
+.battlearea {
+   background-color: rgba(99, 163, 219, 0.493);
+   align-self: center;
+   margin: auto;
+   padding: 10px;
+   width: 90%;
+   height: 50vw;
+}
+
+.field {
+   width:500px
+}
+

@@ -1,0 +1,73 @@
+
+.inactivePlanet {
+   background-color: rgb(76, 76, 158);
+   width: 50px;
+   height: 50px;
+   margin: 5px;
+   border-radius: 50px;
+   text-align: center;
+}
+
+.playerOne {
+   background-color: rgb(76, 76, 158);
+   border: 6px solid rgb(253, 88, 88);
+   width: 50px;
+   height: 50px;
+   margin: 5px;
+   border-radius: 50px;
+   text-align: center;
+}
+
+.active {
+   background-color: rgb(76, 76, 158);
+   border: 6px solid rgb(88, 179, 253);
+   width: 50px;
+   height: 50px;
+   margin: 5px;
+   border-radius: 50px;
+   text-align: center;
+}
+
+.done{
+   background-color: red;
+   width: 50px;
+   height: 50px;
+   margin: 5px;
+   border-radius: 50px;
+   text-align: center;
+}
+
+
+.cardsWindow {
+   display: grid;
+   position:absolute;
+   top: 0;
+   left: 0;
+   /* align-self: auto; */
+   /* margin: auto; */
+   opacity: 0.8;
+   width: 700px;
+   min-height: 100vh;
+   background-color: rgb(255, 247, 240);
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+
+.close {
+   /* position: absolute; */
+   /* margin: auto; */
+   width: 200px;
+   height: 100px;
+   background-color: teal;
+   border-radius: 50px;
+   font-size: 1em;
+   border: 1px solid green
+}
+
+.verifyDone {
+   max-width: 300px;
+   height: 100px;
+   background-color: brown;
+   border-radius: 40%;
+}
