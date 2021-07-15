@@ -1,2 +1,2 @@
 # Star-Battlefield
-one on one - win the overhand on the battlefield
+one on one - win the upperhand on the battlefield
